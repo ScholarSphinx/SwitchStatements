@@ -1,0 +1,10 @@
+C:\Users\calvi\source\repos\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+C:\Users\calvi\source\repos\SwitchStatements\bin\Debug\SwitchStatements.exe
+C:\Users\calvi\source\repos\SwitchStatements\bin\Debug\SwitchStatements.pdb
+C:\Users\calvi\source\repos\SwitchStatements\obj\Debug\SwitchStatements.csproj.AssemblyReference.cache
+C:\Users\calvi\source\repos\SwitchStatements\obj\Debug\SwitchStatements.Form1.resources
+C:\Users\calvi\source\repos\SwitchStatements\obj\Debug\SwitchStatements.Properties.Resources.resources
+C:\Users\calvi\source\repos\SwitchStatements\obj\Debug\SwitchStatements.csproj.GenerateResource.cache
+C:\Users\calvi\source\repos\SwitchStatements\obj\Debug\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\calvi\source\repos\SwitchStatements\obj\Debug\SwitchStatements.exe
+C:\Users\calvi\source\repos\SwitchStatements\obj\Debug\SwitchStatements.pdb
